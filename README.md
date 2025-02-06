@@ -1,5 +1,7 @@
-# 🕌 Prayer Time ⏳  
- ![Project Screenshot](/public/projects/react/1.png)
+# 🕌 Prayer Time ⏳
+![Project Screenshot](/public/projects/react/2.png)
+  
+
 
 ## 🚀 Introduction  
 Prayer Time is a React-based web application that provides accurate Islamic prayer times for different locations. It is built with **React + Vite** for fast performance and easy development.  
