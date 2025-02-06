@@ -1,5 +1,5 @@
 # 🕌 Prayer Time ⏳
-![Project Screenshot](/public/projects/react/2.png)
+![Project Screenshot](/public/projects/react/1.png)
   
 
 
